@@ -1,0 +1,31 @@
+id,name,city,country,iata,icao,latitude,longitude,altitude,timezone,dst,tz_time_zone,type,source
+193,Lester B. Pearson International Airport,Toronto,Canada,YYZ,CYYZ,43.67720032,-79.63059998,569,-5,A,America/Toronto,airport,OurAirports
+302,Brussels Airport,Brussels,Belgium,BRU,EBBR,50.90140152,4.48443985,184,1,E,Europe/Brussels,airport,OurAirports
+340,Frankfurt am Main International Airport,Frankfurt,Germany,FRA,EDDF,50.0333333,8.5705556,364,1,E,Europe/Berlin,airport,OurAirports
+346,Munich International Airport,Munich,Germany,MUC,EDDM,48.35380173,11.78610039,1487,1,E,Europe/Berlin,airport,OurAirports
+478,Manchester Airport,Manchester,United Kingdom,MAN,EGCC,53.35369873,-2.274950027,257,0,E,Europe/London,airport,OurAirports
+502,London Gatwick Airport,London,United Kingdom,LGW,EGKK,51.14810181,-0.190277994,202,0,E,Europe/London,airport,OurAirports
+507,London Heathrow Airport,London,United Kingdom,LHR,EGLL,51.4706,-0.461941,83,0,E,Europe/London,airport,OurAirports
+580,Amsterdam Airport Schiphol,Amsterdam,Netherlands,AMS,EHAM,52.30860138,4.76388979,-11,1,E,Europe/Amsterdam,airport,OurAirports
+1218,Barcelona International Airport,Barcelona,Spain,BCN,LEBL,41.29710007,2.078459978,12,1,E,Europe/Madrid,airport,OurAirports
+1229,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD,LEMD,40.471926,-3.56264,1998,1,E,Europe/Madrid,airport,OurAirports
+1382,Charles de Gaulle International Airport,Paris,France,CDG,LFPG,49.01279831,2.549999952,392,1,E,Europe/Paris,airport,OurAirports
+1555,Leonardo da Vinci–Fiumicino Airport,Rome,Italy,FCO,LIRF,41.8002778,12.2388889,13,1,E,Europe/Rome,airport,OurAirports
+1701,Atatürk International Airport,Istanbul,Turkey,IST,LTBA,40.97689819,28.81459999,163,3,E,Europe/Istanbul,airport,OurAirports
+2188,Dubai International Airport,Dubai,United Arab Emirates,DXB,OMDB,25.25279999,55.36439896,62,4,U,Asia/Dubai,airport,OurAirports
+3077,Chek Lap Kok International Airport,Hong Kong,Hong Kong,HKG,VHHH,22.30890083,113.9150009,28,8,U,Asia/Hong_Kong,airport,OurAirports
+3316,Singapore Changi Airport,Singapore,Singapore,SIN,WSSS,1.35019,103.994003,22,8,N,Asia/Singapore,airport,OurAirports
+3364,Beijing Capital International Airport,Beijing,China,PEK,ZBAA,40.08010101,116.5849991,116,8,U,Asia/Shanghai,airport,OurAirports
+3370,Guangzhou Baiyun International Airport,Guangzhou,China,CAN,ZGGG,23.39240074,113.2990036,50,8,U,Asia/Shanghai,airport,OurAirports
+3395,Chengdu Shuangliu International Airport,Chengdu,China,CTU,ZUUU,30.57850075,103.9469986,1625,8,U,Asia/Shanghai,airport,OurAirports
+3406,Shanghai Pudong International Airport,Shanghai,China,PVG,ZSPD,31.14340019,121.8050003,13,8,U,Asia/Shanghai,airport,OurAirports
+3484,Los Angeles International Airport,Los Angeles,United States,LAX,KLAX,33.94250107,-118.4079971,125,-8,A,America/Los_Angeles,airport,OurAirports
+3576,Miami International Airport,Miami,United States,MIA,KMIA,25.79319954,-80.29060364,8,-5,A,America/New_York,airport,OurAirports
+3670,Dallas Fort Worth International Airport,Dallas-Fort Worth,United States,DFW,KDFW,32.89680099,-97.03800201,607,-6,A,America/Chicago,airport,OurAirports
+3682,Hartsfield Jackson Atlanta International Airport,Atlanta,United States,ATL,KATL,33.63669968,-84.42810059,1026,-5,A,America/New_York,airport,OurAirports
+3751,Denver International Airport,Denver,United States,DEN,KDEN,39.86169815,-104.6729965,5431,-7,A,America/Denver,airport,OurAirports
+3797,John F Kennedy International Airport,New York,United States,JFK,KJFK,40.63980103,-73.77890015,13,-5,A,America/New_York,airport,OurAirports
+3830,Chicago O'Hare International Airport,Chicago,United States,ORD,KORD,41.97859955,-87.90480042,672,-6,A,America/Chicago,airport,OurAirports
+3885,Suvarnabhumi Airport,Bangkok,Thailand,BKK,VTBS,13.68109989,100.7470016,5,7,U,Asia/Bangkok,airport,OurAirports
+3930,Incheon International Airport,Seoul,South Korea,ICN,RKSI,37.46910095,126.4509964,23,9,U,Asia/Seoul,airport,OurAirports
+4029,Domodedovo International Airport,Moscow,Russia,DME,UUDD,55.40879822,37.90629959,588,3,N,Europe/Moscow,airport,OurAirports

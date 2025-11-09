@@ -1,0 +1,162 @@
+[
+  {
+    "_id": 1,
+    "book_id": 101,
+    "cardNo": 1001,
+    "issue_date": {
+      "$date": "2024-09-05T00:00:00Z"
+    }
+  },
+  {
+    "_id": 2,
+    "book_id": 102,
+    "cardNo": 1002,
+    "issue_date": {
+      "$date": "2024-09-06T00:00:00Z"
+    }
+  },
+  {
+    "_id": 3,
+    "book_id": 103,
+    "cardNo": 1003,
+    "issue_date": {
+      "$date": "2024-09-07T00:00:00Z"
+    }
+  },
+  {
+    "_id": 4,
+    "book_id": 104,
+    "cardNo": 1004,
+    "issue_date": {
+      "$date": "2024-09-08T00:00:00Z"
+    }
+  },
+  {
+    "_id": 5,
+    "book_id": 105,
+    "cardNo": 1005,
+    "issue_date": {
+      "$date": "2024-09-09T00:00:00Z"
+    }
+  },
+  {
+    "_id": 6,
+    "book_id": 106,
+    "cardNo": 1006,
+    "issue_date": {
+      "$date": "2024-09-10T00:00:00Z"
+    }
+  },
+  {
+    "_id": 7,
+    "book_id": 107,
+    "cardNo": 1007,
+    "issue_date": {
+      "$date": "2024-09-11T00:00:00Z"
+    }
+  },
+  {
+    "_id": 8,
+    "book_id": 108,
+    "cardNo": 1008,
+    "issue_date": {
+      "$date": "2024-09-12T00:00:00Z"
+    }
+  },
+  {
+    "_id": 9,
+    "book_id": 109,
+    "cardNo": 1009,
+    "issue_date": {
+      "$date": "2024-09-13T00:00:00Z"
+    }
+  },
+  {
+    "_id": 10,
+    "book_id": 110,
+    "cardNo": 1010,
+    "issue_date": {
+      "$date": "2024-09-14T00:00:00Z"
+    }
+  },
+  {
+    "_id": 11,
+    "book_id": 111,
+    "cardNo": 1011,
+    "issue_date": {
+      "$date": "2024-09-15T00:00:00Z"
+    }
+  },
+  {
+    "_id": 12,
+    "book_id": 112,
+    "cardNo": 1012,
+    "issue_date": {
+      "$date": "2024-09-16T00:00:00Z"
+    }
+  },
+  {
+    "_id": 13,
+    "book_id": 113,
+    "cardNo": 1013,
+    "issue_date": {
+      "$date": "2024-09-17T00:00:00Z"
+    }
+  },
+  {
+    "_id": 14,
+    "book_id": 114,
+    "cardNo": 1014,
+    "issue_date": {
+      "$date": "2024-09-18T00:00:00Z"
+    }
+  },
+  {
+    "_id": 15,
+    "book_id": 115,
+    "cardNo": 1015,
+    "issue_date": {
+      "$date": "2024-09-19T00:00:00Z"
+    }
+  },
+  {
+    "_id": 16,
+    "book_id": 116,
+    "cardNo": 1016,
+    "issue_date": {
+      "$date": "2024-09-20T00:00:00Z"
+    }
+  },
+  {
+    "_id": 17,
+    "book_id": 117,
+    "cardNo": 1017,
+    "issue_date": {
+      "$date": "2024-09-21T00:00:00Z"
+    }
+  },
+  {
+    "_id": 18,
+    "book_id": 118,
+    "cardNo": 1018,
+    "issue_date": {
+      "$date": "2024-09-22T00:00:00Z"
+    }
+  },
+  {
+    "_id": 19,
+    "book_id": 119,
+    "cardNo": 1019,
+    "issue_date": {
+      "$date": "2024-09-23T00:00:00Z"
+    }
+  },
+  {
+    "_id": 20,
+    "book_id": 120,
+    "cardNo": 1020,
+    "issue_date": {
+      "$date": "2024-09-24T00:00:00Z"
+    }
+  }
+]
