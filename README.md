@@ -11,6 +11,7 @@ This repository contains a lab report and supporting scripts/notebooks that expl
 - **MongoDB** (document DB & aggregation)
 - **Hadoop / Cloudera** (HDFS, MapReduce, Pig, HBase)
 - Practical lab exercises: HR survey, flight dataset analysis, library (books) analysis, and Hadoop exercises.
+- For better Understanding
 
 The full lab report (with explanations, example queries, dataset links, and results) is included in `BigData_Report.docx`.
 
